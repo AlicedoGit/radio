@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+    font-family: cursive;
+    background-color: orangered;
+    text-decoration: whitesmoke;
+    color: white;
+}
+img{
+    width: 90px;
+    height: 90px;
+    border-radius: 50px;
+}
+h2{
+    background-color: orangered;
+    color: white;
+    font-family: cursive;
+}
+h3{
+    margin-right: 20xp;
+    color: white;
+    font-family: cursive;
+}
+.foto{
+    margin-top: 20px;
+    padding: 20px;
+}
+body {
+    background-image: url(fotos/Design\ sem\ nome\ \(3\).png);
+}
+.alice {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+audio:hover, audio:focus, audio:active
+{
+-webkit-box-shadow: 15px 15px 20px rgb(255, 140, 0);
+-moz-box-shadow: 15px 15px 20px rgb(255, 140, 0.4);
+box-shadow: 15px 15px 20px rgba(255, 140, 0, 0.995);
+-webkit-transform: scale(1.05);
+-moz-transform: scale(1.05);
+transform: scale(1.05);
+}
+
+
+audio
+{
+-webkit-transition:all 0.5s linear;
+-moz-transition:all 0.5s linear;
+-o-transition:all 0.5s linear;
+transition:all 0.5s linear;
+-moz-box-shadow: 2px 2px 4px 0px #006773;
+-webkit-box-shadow:  2px 2px 4px 0px #006773;
+box-shadow: 2px 2px 4px 0px #006773;
+-moz-border-radius:7px 7px 7px 7px ;
+-webkit-border-radius:7px 7px 7px 7px ;
+border-radius:7px 7px 7px 7px ;
+}
